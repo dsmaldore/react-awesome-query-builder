@@ -12,7 +12,7 @@
     "allowJs": true,
     "outDir": "./ts_out",
     "skipLibCheck": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "strictNullChecks": false,
